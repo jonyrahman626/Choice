@@ -1,0 +1,1046 @@
+@media (min-width:1200px) {
+    .main_logo a img {
+        padding-left: 15px;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    /*========================================
+            Home page  Start
+    ========================================*/
+    .main_menu ul li a {
+        padding: 0 18px 0 19px !important;
+    }
+
+    .main_menu ul li ul {
+        top: 44px;
+    }
+
+    .main_logo a img {
+        padding-left: 15px;
+    }
+
+    .menu_head {
+        height: 170px;
+    }
+
+    .main_menu ul {
+        margin: 8px 0;
+    }
+
+
+    .banner_item {
+        padding: 100px 0;
+    }
+
+    .park_text h3 {
+        font-size: 21px;
+        line-height: 20px;
+    }
+
+    .park_text p span {
+        font-size: 16px;
+    }
+
+    .park_text p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    .patner_logo {
+        height: 100px;
+        line-height: 100px;
+        width: 21%;
+    }
+
+    .patner_head h3 {
+        padding-top: 0px;
+    }
+
+
+    /*========================================
+            Home page  End
+    ========================================*/
+
+    /*========================================
+            City map page  Start
+    ========================================*/
+
+    .map_inner .select_map select {
+        width: 150px;
+        font-size: 15px;
+    }
+
+    .map_inner .select_map i {
+        font-size: 14px;
+    }
+
+    .map_inner button {
+        padding: 0px 15px;
+    }
+
+    .map_inner input {
+        width: 162px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    .map_inner a {
+        margin-bottom: 15px;
+    }
+
+    /*========================================
+            City map page  End
+    ========================================*/
+
+    /*========================================
+            Contact page  Start
+    ========================================*/
+    .form_part input {
+        width: 47%;
+        margin-right: 14px;
+    }
+
+    .form_part textarea {
+        width: 100%;
+    }
+
+    /*========================================
+            Contact page  End
+    ========================================*/
+
+    #team_member_part {
+        padding-bottom: 35px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /*========================================
+            Home page  Start
+    ========================================*/
+    .main_menu ul li a {
+        font-size: 14px;
+        padding: 0 14px 0 14px !important;
+    }
+
+    .main_menu ul li a i {
+        padding-left: 5px;
+    }
+
+    .main_menu ul li ul {
+        top: 44px;
+    }
+
+    .menu_head {
+        height: 140px;
+    }
+
+    .main_menu ul {
+        margin: 8px 0;
+    }
+
+    .banner_item {
+        padding: 80px 0;
+        height: 500px;
+    }
+
+    .park_text h3 {
+        font-size: 21px;
+        line-height: 20px;
+    }
+
+    #park_part {
+        padding: 80px 0 40px;
+    }
+
+    .park_text p span {
+        font-size: 16px;
+    }
+
+    .park_text p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    .patner_logo {
+        height: 100px;
+        line-height: 100px;
+        width: 21%;
+    }
+
+    /*========================================
+            Home page  End
+    ========================================*/
+
+    /*========================================
+            City page  Start
+    ========================================*/
+    #city_part {
+        padding: 80px 0 20px;
+    }
+
+    /*========================================
+            City page  End
+    ========================================*/
+
+    /*========================================
+            Event page  Start
+    ========================================*/
+    #event_part {
+        padding: 80px 0 35px;
+    }
+
+    .comment_mar {
+        margin-top: 60px;
+    }
+
+    /*========================================
+            Event page  End
+    ========================================*/
+
+    /*========================================
+            City map page  Start
+    ========================================*/
+    #map_part {
+        padding: 70px 0 30px;
+    }
+
+    .map_inner .select_map select {
+        width: 160px;
+        font-size: 15px;
+        margin-right: 10px;
+    }
+
+    .map_inner .select_map i {
+        font-size: 14px;
+    }
+
+    .main_map iframe {
+        height: 500px !important;
+    }
+
+    .map_inner input {
+        width: 280px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    .map_inner button {
+        margin-right: 0px;
+    }
+
+    .map_inner a {
+        margin-bottom: 15px;
+    }
+
+    /*========================================
+            City map page  End
+    ========================================*/
+
+    /*========================================
+            Team page  Start
+    ========================================*/
+    #team_member_part {
+        padding-top: 80px;
+    }
+
+    .team_member_inner {
+        margin-bottom: 25px;
+    }
+
+    .team_head h3 {
+        font-size: 24px;
+    }
+
+    .team_head {
+        padding-bottom: 40px;
+    }
+
+    .team_text h4 {
+        font-size: 20px;
+    }
+
+    .team_text h5 {
+        font-size: 16px;
+    }
+
+    .team_text a i {
+        font-size: 16px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    /*========================================
+            Team page  End
+    ========================================*/
+
+    /*========================================
+            Contact page  Start
+    ========================================*/
+    #contact_part {
+        padding: 80px 0 38px;
+    }
+
+    .contact_form button {
+        line-height: 55px;
+        font-size: 22px;
+    }
+
+    .form_part input {
+        width: 47%;
+        margin-right: 7px;
+    }
+
+    .form_part textarea {
+        width: 100%;
+    }
+
+    /*========================================
+            Contact page  End
+    ========================================*/
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /*========================================
+            Home page  Start
+    ========================================*/
+    /*========================================
+            Menu part  Start
+    ========================================*/
+    .menu_head {
+        height: 100px;
+        z-index: 999;
+    }
+
+    .menu_icon ul li a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-left: 10px;
+        font-size: 16px;
+    }
+
+    .menu_fix ul li ul {
+        top: 20px !important;
+    }
+
+    .menu_fix .main_menu ul {
+        margin: 20px 0;
+    }
+
+    .main_logo img {
+        width: 150px;
+    }
+
+    .menu_head button {
+        padding: 9px 12px;
+        border: 1px solid #ddd;
+        color: #444;
+        border-radius: 0;
+    }
+
+    .menu_head button:focus {
+        outline: 0;
+    }
+
+    .menu_mar {
+        margin: 26px 0;
+        width: 100%;
+    }
+
+    .main_menu > ul {
+        margin: 25px 0 0 0;
+        background: #fff;
+        text-align: center;
+        -webkit-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.3);
+        -moz-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.3);
+        box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.3);
+    }
+
+    .main_menu ul li a {
+        line-height: 40px;
+        border: 0;
+        width: 100%;
+    }
+
+    .main_menu ul li ul {
+        top: 10px;
+    }
+
+    /*========================================
+            Menu part  End
+    ========================================*/
+
+    /*========================================
+            Banner part  Start
+    ========================================*/
+    .banner_item {
+        padding: 60px 0;
+        height: 450px;
+    }
+
+    .banner_text h1 {
+        font-size: 60px;
+    }
+
+    .banner_text h4 {
+        font-size: 24px;
+    }
+
+    .banner_text p {
+        font-size: 15px;
+        line-height: 24px;
+        padding-top: 28px;
+    }
+
+    .banner_text p .text_1 {
+        padding-right: 30px;
+    }
+
+    /*========================================
+            Banner part  End
+    ========================================*/
+
+    /*========================================
+            Park part  Start
+    ========================================*/
+    #park_part {
+        padding: 60px 0 30px;
+    }
+
+    .park_text {
+        padding-bottom: 30px;
+    }
+
+    /*========================================
+            Park part  End
+    ========================================*/
+
+    /*========================================
+            Patner part  Start
+    ========================================*/
+
+    .patner_logo img {
+        width: 100%;
+    }
+
+    .patner_logo {
+        padding: 0px 10px;
+        margin-bottom: 30px;
+        width: 44%;
+        text-align: center;
+    }
+
+    .patner_head h3 {
+        padding-top: 0px;
+    }
+
+    #patner_part {
+        padding-bottom: 30px;
+    }
+
+    /*========================================
+            Patner part  End
+    ========================================*/
+
+    /*========================================
+            Home page  End
+    ========================================*/
+
+    /*========================================
+            City page  Start
+    ========================================*/
+    #city_part {
+        padding: 60px 0 35px;
+    }
+
+    .city_inner h3 {
+        font-size: 22px;
+        padding: 30px 0 22px;
+    }
+
+    .city_inner h5 {
+        font-size: 19px;
+        line-height: 26px;
+    }
+
+    /*========================================
+            City page  End
+    ========================================*/
+
+    /*========================================
+            Event page  Start
+    ========================================*/
+    #event_part {
+        padding: 60px 0 40px;
+    }
+
+    .event_head h3 {
+        font-size: 22px;
+        line-height: 28px;
+        padding-top: 30px;
+    }
+
+    .event_text p {
+        line-height: 22px;
+        padding: 15px 0 30px 0;
+    }
+
+    .blog_detail_color_text {
+        padding: 15px 15px;
+    }
+
+    .categ_pad p {
+        padding-top: 30px;
+    }
+
+    .cate_list li {
+        padding-bottom: 15px;
+    }
+
+    .comment_mar {
+        margin-top: 0px;
+    }
+
+    .com_head h4 {
+        font-size: 18px;
+        padding-bottom: 25px;
+    }
+
+    .form_part input {
+        width: 47%;
+        margin-right: 15px;
+    }
+
+    .form_part textarea {
+        width: 100%;
+    }
+
+    .com_head h4 {
+        padding-bottom: 15px;
+        padding-top: 30px;
+    }
+
+    /*========================================
+            Event page  End
+    ========================================*/
+
+    /*========================================
+            City map page  Start
+    ========================================*/
+    #map_part {
+        padding: 60px 0;
+    }
+
+    .map_inner .select_map select {
+        width: 137px;
+        font-size: 14px;
+        margin-right: 5px;
+    }
+
+    .map_inner .select_map i {
+        font-size: 12px;
+        right: 13px;
+    }
+
+    .main_map iframe {
+        height: 400px !important;
+    }
+
+    .map_inner input {
+        width: 140px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    .map_inner button {
+        padding: 0 15px;
+        margin-right: 0px;
+    }
+
+    .map_inner a {
+        margin-bottom: 15px;
+    }
+
+    /*========================================
+            City map page  End
+    ========================================*/
+
+    /*========================================
+            Team page  Start
+    ========================================*/
+    #team_member_part {
+        padding-top: 60px;
+    }
+
+    .team_member_inner {
+        margin-bottom: 45px;
+    }
+
+    .team_head h3 {
+        font-size: 24px;
+    }
+
+    .team_head {
+        padding-bottom: 40px;
+    }
+
+    .team_text h4 {
+        font-size: 20px;
+    }
+
+    .team_text h5 {
+        font-size: 16px;
+    }
+
+    .team_text a i {
+        font-size: 16px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    /*========================================
+            Team page  End
+    ========================================*/
+
+    /*========================================
+            Contact page  Start
+    ========================================*/
+    #contact_part {
+        padding: 60px 0 60px;
+    }
+
+    .contact_form button {
+        line-height: 50px;
+        font-size: 21px;
+    }
+
+    /*========================================
+            Contact page  End
+    ========================================*/
+}
+
+@media (max-width: 575px) {
+
+    /*========================================
+            Home page  Start
+    ========================================*/
+    /*========================================
+            Menu part  Start
+    ========================================*/
+    .menu_head {
+        height: 70px;
+        z-index: 999;
+    }
+
+    .menu_icon ul li a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin-left: 5px;
+        font-size: 13px;
+    }
+
+    .main_logo img {
+        width: 130px;
+    }
+
+    .menu_head button {
+        padding: 5px 8px;
+        border: 1px solid #ddd;
+        color: #444;
+        border-radius: 0;
+    }
+
+    .menu_head button:focus {
+        outline: 0;
+    }
+
+    .menu_mar {
+        margin: 11px 0;
+        width: 100%;
+    }
+
+    .main_menu > ul {
+        margin: 18px 0 0 0;
+        background: #fff;
+        text-align: center;
+        -webkit-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.3);
+        -moz-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.3);
+        box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.3);
+    }
+
+    .main_menu ul li a {
+        font-size: 16px;
+        line-height: 40px;
+        border: 0;
+        width: 100%;
+    }
+
+    .menu_fix .main_logo a img {
+        width: 130px;
+    }
+
+    .menu_fix .main_menu ul {
+        margin: 20px 0;
+    }
+
+    .menu_fix ul li ul {
+        top: 22px !important;
+    }
+
+    .menu_fix .main_menu ul {
+        margin: 18px 0;
+    }
+
+    .main_menu ul li ul {
+        top: 10px;
+    }
+
+    /*========================================
+            Menu part  End
+    ========================================*/
+
+    /*========================================
+            Banner part  Start
+    ========================================*/
+    .banner_item {
+        padding: 50px 0;
+        height: 400px;
+    }
+
+    .banner_text h1 {
+        font-size: 50px;
+    }
+
+    .banner_text h4 {
+        font-size: 20px;
+    }
+
+    .banner_text p {
+        font-size: 14px;
+        line-height: 22px;
+        padding-top: 25px;
+    }
+
+    .banner_text p .text_1 {
+        padding-right: 16px;
+    }
+
+    .arr_right {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+
+    .arr_left {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+
+    /*========================================
+            Banner part  End
+    ========================================*/
+
+    /*========================================
+            Park part  Start
+    ========================================*/
+    #park_part {
+        padding: 50px 0 20px;
+    }
+
+    .park_text {
+        padding-bottom: 30px;
+    }
+
+    .park_text h3 {
+        font-size: 22px;
+        margin: 15px 0 5px 0;
+    }
+
+    .park_text p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .park_text p span {
+        font-size: 16px;
+    }
+
+    /*========================================
+            Park part  End
+    ========================================*/
+
+    /*========================================
+            Patner part  Start
+    ========================================*/
+    .patner_logo {
+        height: 100px;
+        margin-right: 15px;
+        padding: 30px 15px;
+    }
+
+    .patner_logo img {
+        width: 100%;
+    }
+
+    .patner_logo {
+        height: 70px;
+        margin-right: 15px;
+        padding: 0px 10px;
+        margin-bottom: 10px;
+        width: 44%;
+        line-height: 70px;
+        text-align: center;
+    }
+
+    .patner_head h3 {
+        font-size: 24px;
+        padding-bottom: 25px;
+        padding-top: 0px;
+    }
+
+    .patner_head h3 {}
+
+    #patner_part {
+        padding-bottom: 50px;
+    }
+
+    /*========================================
+            Patner part  End
+    ========================================*/
+    /*========================================
+            Home page  End
+    ========================================*/
+
+    /*========================================
+            City page  End
+    ========================================*/
+    .bread a i {
+        padding: 0px 5px;
+        font-size: 12px;
+    }
+
+    .bread a {
+        font-size: 12px;
+    }
+
+    .team_bk_to_home a i {
+        padding-right: 4px;
+    }
+
+    .team_bk_to_home a {
+        font-size: 12px;
+    }
+
+    #city_part {
+        padding: 50px 0 25px;
+    }
+
+    .city_inner h3 {
+        font-size: 20px;
+        padding: 20px 0 10px;
+    }
+
+    .city_inner h5 {
+        font-size: 17px;
+        line-height: 22px;
+        padding-bottom: 0px;
+    }
+
+    .city_inner p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .city_inner p span {
+        padding-top: 20px;
+    }
+
+    /*========================================
+            City page  End
+    ========================================*/
+
+    /*========================================
+            Event page  Start
+    ========================================*/
+    #event_part {
+        padding: 50px 0 30px;
+    }
+
+    .event_head h3 {
+        font-size: 20px;
+        line-height: 28px;
+        padding-top: 30px;
+    }
+
+    .event_text p {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 15px 0 30px 0;
+    }
+
+    .blog_detail_color_text {
+        padding: 15px 15px;
+    }
+
+    .categ_pad p {
+        padding-top: 30px;
+        font-size: 14px;
+    }
+
+    .cate_list li {
+        padding-bottom: 15px;
+        font-size: 14px;
+    }
+
+    .comment_mar {
+        margin-top: 30px;
+    }
+
+    .com_head h4 {
+        font-size: 18px;
+        padding-bottom: 25px;
+    }
+
+    .form_part input {
+        width: 46%;
+    }
+
+    .form_part textarea {
+        width: 100%;
+    }
+
+    .com_head h4 {
+        padding-bottom: 15px;
+        padding-top: 30px;
+    }
+
+    /*========================================
+            Event page  End
+    ========================================*/
+
+    /*========================================
+            City map page  Start
+    ========================================*/
+    #map_part {
+        padding: 50px 0;
+    }
+
+    .map_inner .select_map select {
+        width: 137px;
+        font-size: 14px;
+        margin-right: 5px;
+    }
+
+    .map_inner .select_map i {
+        font-size: 12px;
+        right: 13px;
+    }
+
+    .main_map iframe {
+        height: 300px !important;
+    }
+
+    .map_inner input {
+        width: 207px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    .map_inner button {
+        padding: 0 15px;
+        margin-right: 0px;
+    }
+
+    .map_inner a {
+        margin-bottom: 15px;
+    }
+
+    .map_inner a {
+        font-size: 13px;
+        margin-right: 5px;
+    }
+
+    /*========================================
+            City map page  End
+    ========================================*/
+
+    /*========================================
+            Team page  Start
+    ========================================*/
+    #team_member_part {
+        padding-top: 50px;
+    }
+
+    .team_member_inner {
+        margin-bottom: 35px;
+    }
+
+    .team_head h3 {
+        font-size: 24px;
+    }
+
+    .team_head {
+        padding-bottom: 40px;
+    }
+
+    .team_text h4 {
+        font-size: 20px;
+    }
+
+    .team_text h5 {
+        font-size: 16px;
+    }
+
+    .team_text a i {
+        font-size: 16px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    /*========================================
+            Team page  End
+    ========================================*/
+
+    /*========================================
+            Contact page  Start
+    ========================================*/
+    #contact_part {
+        padding: 50px 0 45px;
+    }
+
+    .contact_form button {
+        line-height: 45px;
+        font-size: 20px;
+    }
+
+    /*========================================
+            Contact page  End
+    ========================================*/
+
+}
+
+@media (min-width: 420px) and (max-width: 575px) {
+    .patner_logo {
+        height: 90px;
+        line-height: 90px;
+        text-align: center;
+    }
+}
+
+@media (min-width: 530px) and (max-width: 575px) {
+    .map_inner input {
+        width: 130px;
+    }
+}
